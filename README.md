@@ -2,8 +2,8 @@
 
 If you're looking to contact me, I'm available on Discord at `applе#2775` (note the Cyrillic `е`).
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=apple-phi&count_private=true&show_icons=true&theme=dracula&hide_border=true" height=200rem/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apple-phi&layout=compact&hide_border=true&theme=dracula&langs_count=8" height=200rem/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=apple-phi&count_private=true&show_icons=true&theme=dracula&hide_border=true" height=175rem/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apple-phi&layout=compact&hide_border=true&theme=dracula&langs_count=8" height=175rem/>
 
 <!--
 **apple-phi/apple-phi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
